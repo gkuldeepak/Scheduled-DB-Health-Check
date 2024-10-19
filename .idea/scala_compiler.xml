@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ScalaCompilerConfiguration">
+    <profile name="sbt 1" modules="Scheduled-DB-Health-Check,scheduled-db-health-check_8925" />
+  </component>
+</project>
